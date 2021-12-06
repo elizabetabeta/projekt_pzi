@@ -31,9 +31,9 @@
       <b>Ivona Krezić</b><br>
       Studentica 3. godine informatike<br>
       Imam 22 godine, dolazim iz Mostara. <br>
-      Slobodno vrijeme nastojim iskoristiti sto <br>
+      Slobodno vrijeme nastojim iskoristiti što <br>
       efektivnije, tako da se bavim sportom, <br>
-      vozim biciklo, boksam, družiti se sa <br>
+      vozim biciklo, boksam, družim se sa <br>
       prijateljima, putujem, te učim <br>
       uvijek nešto novo pretražujući internet.
     </p>
